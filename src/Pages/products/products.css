@@ -1,0 +1,16 @@
+.icon{
+    color: #c057f7;
+    background-color: #bf57f72f;
+}
+.icon:hover{
+    cursor: pointer;
+}
+.img{
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.cont{
+    /* background-image: url('../../../public/bg.jpg'); */
+    background-size: cover;
+    background-repeat: no-repeat;
+}

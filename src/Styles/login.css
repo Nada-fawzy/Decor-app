@@ -1,0 +1,23 @@
+.LoginContainer {
+    margin: auto;
+    padding: 20px;
+    background: #f7f7f7;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .input {
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    margin-bottom: 10px;
+  }
+  
+  .button {
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    font-weight: 600;
+  }
+  
